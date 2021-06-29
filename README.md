@@ -3,7 +3,7 @@
 
 - 🌱 Currently, I am a student in the Boise CodeWorks Immersive Full Stack program and plan to graduate on June 11th.  In the BCW program I will be working to gain proficiency in HTML, CSS, JavaScript, Web API/HTTP, JS Frameworks, Nodejs, DotNet Core C#, SQL, MongoDb, and Agile/Scrum.
 - 💼 You can view my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/scott-miller-2190b7113)
-- 🔭 Take a look at my Software Developer Porfolio here: [Professional Portfolio]()
+- 🔭 Take a look at my Software Developer Porfolio here: [Professional Portfolio](https://idmiller2020.github.io/professional-portfolio/)
 <!--
 **IDMiller2020/IDMiller2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
