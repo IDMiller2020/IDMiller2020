@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Scott Miller!
 
 
-- 🌱 I finished the CodeWorks Boise Full Stack program in June of 2021 and I am currently looking for work as a Software Developer. The Codeworks program covered concepts in the following areas: HTML, CSS, JavaScript, Web API/HTTP, JS Frameworks, Nodejs, DotNet Core C#, SQL, MongoDb, and Agile/Scrum.
-- 💼 You can view my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/scott-miller-2190b7113)
+- 🌱 I finished the CodeWorks Boise Full Stack program in June of 2021. It is a great program that I would definitly reccomend it to anyone in the Boise area that is looking to get into software development.
 - 🔭 Take a look at my Software Developer Porfolio here: [Professional Portfolio](https://softwaredesign.tech)
+- These days, I'm not doing much Full Stack Software Development but I do enjoy playing around with a Raspberry Pi, Arduino, or ESP32 board from time to time. 
 <!--
 **IDMiller2020/IDMiller2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
