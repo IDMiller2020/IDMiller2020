@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Scott Miller!
 
 
-- 🌱 I finished the CodeWorks Boise Full Stack program in June of 2021. It is a great program that I would definitly reccomend it to anyone in the Boise area that is looking to get into software development.
+- 🌱 I finished the CodeWorks Boise Full Stack program in June of 2021. It is a great program that I would definitly reccomend to anyone in the Boise area that is looking to get into software development.
 - 🔭 Take a look at my Software Developer Porfolio here: [Professional Portfolio](https://softwaredesign.tech)
 - These days, I'm not doing much Full Stack Software Development but I do enjoy playing around with a Raspberry Pi, Arduino, or ESP32 board from time to time. 
 <!--
